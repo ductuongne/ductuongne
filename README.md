@@ -35,6 +35,7 @@
 
 **Design & Creative**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![FL Studio](https://img.shields.io/badge/FL_Studio-F28900?style=for-the-badge&logo=fl-studio&logoColor=white)
+
 ---
 
 ### 📊 GitHub Analytics
