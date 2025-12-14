@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 - 💬 Ask me about **Tech, Music & Coding**
-- 📫 How to reach me: **ductuong.work@gmail.com** (hoặc link Facebook của bạn)
+- 📫 How to reach me: **ductuong.work@gmail.com**
 
 ---
 
