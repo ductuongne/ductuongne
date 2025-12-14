@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  <img src="https://avatars.githubusercontent.com/u/80580064?v=4" width="100" />
 
   <h1 align="center">Hi there, I'm Duc Tuong 👋</h1>
   
