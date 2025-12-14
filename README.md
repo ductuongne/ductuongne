@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://avatars.githubusercontent.com/u/80580064?v=4" width="100" radius="20px"/>
+  <img src="https://avatars.githubusercontent.com/u/80580064?v=4" width="100" border_radius="20px"/>
 
   <h1 align="center">Hi there, I'm Duc Tuong 👋</h1>
   
