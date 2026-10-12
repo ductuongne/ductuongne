@@ -12,9 +12,7 @@
 
 ### 🧐 About Me
 
-- 🍀 Telegram: @ductuongug
 - 📫 How to reach me: **ductuong.work@gmail.com**
 
----
 
 
